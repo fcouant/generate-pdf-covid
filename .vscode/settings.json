@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/38914040-04fc-48c1-bba6-ea5a2117bcc1/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/generate-attestation-custom-covid",
+    "appService.deploySubpath": "."
+}
